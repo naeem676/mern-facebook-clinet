@@ -1,0 +1,10 @@
+@media screen and (min-width: 480px) {
+    .icon{
+        display: none;
+    }
+  }
+  @media screen and (min-width: 1280px) {
+    .icon{
+        display: block;
+    }
+  }
